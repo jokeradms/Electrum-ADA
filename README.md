@@ -1,10 +1,11 @@
 
 # Electrum ADA - Lightweight Cardano Wallet
 
-![License](https://img.shields.io/badge/License-GNU%20GPL%20v3-blue.svg)
-![Release](https://img.shields.io/github/release/jokeradms/Electrum-ADA.svg)
-![Tag](https://img.shields.io/github/tag/jokeradms/Electrum-ADA.svg)
+[![License](https://img.shields.io/badge/License-GNU%20GPL%20v3-blue.svg)](https://github.com/jokeradms/Electrum-ADA/blob/master/LICENCE)
+[![Release](https://img.shields.io/github/release/jokeradms/Electrum-ADA.svg)](https://github.com/jokeradms/Electrum-ADA/releases/tag/v3.7.1)
+[![Tag](https://img.shields.io/github/tag/jokeradms/Electrum-ADA.svg)](https://github.com/jokeradms/Electrum-ADA/releases/tag/v3.7.1)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-green.svg)
+
 
 Electrum ADA is a lightweight, secure wallet for Cardano (ADA), built with Python. It is an open-source project designed to be efficient and easy to use. The wallet uses Electrum's framework and focuses on simplicity while providing powerful features.
 
